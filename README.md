@@ -18,7 +18,7 @@ Starlight is a visually stunning, animated landing page for a fictional producti
 
 Check out the live version of the project hosted on Vercel:
 
-**Visit Live Demo**
+[**Visit Live Demo**](https://starlight-animated-landing-page.vercel.app/)
 
 ## 📸 Screenshots
 
