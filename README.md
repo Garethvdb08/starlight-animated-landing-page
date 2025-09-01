@@ -22,11 +22,13 @@ Check out the live version of the project hosted on Vercel:
 
 ## 📸 Screenshots
 
-_(You can add your project screenshots here. I've added placeholders for you.)_
+Here's a glimpse of Starlight in action.
 
-`!Placeholder for Hero Section Screenshot`
+**Hero Section**
+![Starlight Hero Section](starlight-hero.png)
 
-`!Placeholder for Features Section Screenshot`
+**Features Section**
+![Starlight Features Section](starlight-feat-section.png)
 
 ## 🛠️ Tech Stack
 
